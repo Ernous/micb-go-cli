@@ -1,0 +1,19 @@
+# Binary
+micb-go-cli
+micb-go-cli.exe
+
+# Local config and cookies
+.micb-cli/
+
+# Go workspace
+go.work
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
